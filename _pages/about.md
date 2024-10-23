@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I’m a computational social scientist with broad interests in social behavior, digital media effects, human-AI interactions, and well-being.
-I am a research staff in [Media and Personality Lab](https://maplab.stanford.edu/) at the Stanford University, working with [Gabriella M. Harari](https://maplab.stanford.edu/people/gabriella-harari). I'm also Visiting Scholor at [GUII lab](https://guiilab.ucsc.edu/home) and Lecturer in Computational Media department at University of California, Santa Cruz. 
+I am a research staff in [Media and Personality Lab](https://maplab.stanford.edu/) at the Stanford University, working with [Gabriella M. Harari](https://maplab.stanford.edu/people/gabriella-harari). I'm also Visiting Scholor at [GUII lab](https://guiilab.ucsc.edu/home), working with Magy [El-Nasr](https://magyel-nasr.net/) Lecturer in Computational Media department at University of California, Santa Cruz. 
 I received my PhD degree in Computer Science from University of Colorado Boulder. 
 
 
