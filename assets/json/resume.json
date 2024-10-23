@@ -7,14 +7,10 @@
   "education": [
     {
       "institution": "University of Colorado, Boulder",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "location": "Boulder, CO",
       "studyType": "PhD",
       "startDate": "2012",
       "endDate": "2016",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
     }
   ],
   "experince": [
