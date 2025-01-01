@@ -1,4 +1,4 @@
----
+{%---
 layout: default
 permalink: /blog/
 title: blog
@@ -14,9 +14,9 @@ pagination:
   trail:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
----
+--- %}
 
-<div class="post">
+{%<div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
@@ -187,7 +187,7 @@ pagination:
 
     {% endfor %}
 
-  </ul>
+  </ul>  %}
 
 {% if page.pagination.enabled %}
 {% include pagination.liquid %}
