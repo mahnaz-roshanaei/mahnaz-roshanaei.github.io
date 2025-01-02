@@ -1,7 +1,8 @@
 ---
 layout: page
 title: social interaction
-description: with background image
+description: Examining the effects of social interactions on people’s psychological experiences
+
 img: assets/img/project1.jpg
 importance: 1
 category: work
