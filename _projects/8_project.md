@@ -1,11 +1,11 @@
 ---
 layout: page
-title: smartphone, social media, and psychological experiences
+title: digital media use and effect
 
-description: Modeling and predicting psychological experiences through digital media 
+description: Modeling and predicting psychological experiences through smartphone and social meida  
 
 img: assets/img/project3.jpg
-importance: 2
+importance: 3
 category: work
 giscus_comments: true
 ---
