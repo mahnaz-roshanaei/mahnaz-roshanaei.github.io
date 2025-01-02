@@ -1,6 +1,6 @@
 ---
 layout: page
-title: human-AI interaction
+title: mobile sensing
 description: 
 img: assets/img/project2.jpg
 importance: 2
