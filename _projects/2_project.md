@@ -1,6 +1,6 @@
 ---
 layout: page
-title: mobile sensing
+title: smartphone use and effect
 description: 
 img: assets/img/project2.jpg
 importance: 2
