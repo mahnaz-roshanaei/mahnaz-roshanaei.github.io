@@ -1,6 +1,6 @@
 ---
 layout: page
-title: social interaction and wellbeing in context
+title: social interaction and wellbeing
 description: 
 
 img: assets/img/project1.jpg
