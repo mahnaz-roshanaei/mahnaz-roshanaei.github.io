@@ -4,7 +4,7 @@ title: project 1
 description: with background image
 img: assets/img/project1.jpg
 importance: 1
-category: work
+category: social media
 related_publications: true
 ---
 
