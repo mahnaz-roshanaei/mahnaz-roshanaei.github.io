@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 My paper on the impact of meaningful social 
-interactions and well-being in context has garnered significant [press](https://maplab.stanford.edu/](https://phys.org/news/2024-06-meaningful-social-interactions-boost-context.html) interest. 
+interactions and well-being in context has garnered significant [press](https://phys.org/news/2024-06-meaningful-social-interactions-boost-context.html) interest. 
