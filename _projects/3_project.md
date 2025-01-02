@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Human-AI interaction
-description: 
+title: human-AI interaction
+description: Navigating empathy through social interaction  
 img: assets/img/project4.jpg
 redirect: https://unsplash.com
 importance: 3
