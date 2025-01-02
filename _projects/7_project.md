@@ -1,7 +1,8 @@
 ---
 layout: page
-title: social interaction and wellbeing
-description: 
+title: social interaction 
+description: Examining the effects of social interactions on people’s psychological experience in context
+
 
 img: assets/img/project1.jpg
 importance: 1
