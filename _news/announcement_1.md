@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-My paper, “Interaction Partners and Empathy in the Selection of
-Communication Channels During Meaningful Social Interactions," has been submitted to HCR.
+My paper, [“Interaction Partners and Empathy in the Selection of
+Communication Channels During Meaningful Social Interactions,"](https://osf.io/preprints/psyarxiv/ty68s?view_only=) has been submitted to HCR.
