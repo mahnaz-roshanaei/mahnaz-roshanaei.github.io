@@ -1,7 +1,8 @@
 ---
 layout: page
-title: social media
-description: an other project with a background image and giscus comments
+title: digital media and psychological experiences
+
+description:
 img: assets/img/project3.jpg
 importance: 2
 category: work
