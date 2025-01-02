@@ -1,6 +1,6 @@
 ---
 layout: page
-title: digital media and psychological experiences
+title: social media and psychological experiences
 
 description:
 img: assets/img/project3.jpg
