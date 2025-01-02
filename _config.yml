@@ -41,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -90,13 +90,13 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: in/mahnaz-roshanaei-6438b236 # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: 0000-0001-7094-614X # your ORCID ID
-osf_id: osf.io/ydrv6 # your OSF ID
+orcid_id:  # your ORCID ID
+osf_id: ydrv6 # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: COuYvcQAAAAJ # your Google Scholar ID
+scholar_userid: zAYjiQ8AAAAJ&hl=en # your Google Scholar ID 
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
