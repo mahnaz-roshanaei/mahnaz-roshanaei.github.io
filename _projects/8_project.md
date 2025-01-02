@@ -1,8 +1,9 @@
 ---
 layout: page
-title: social media and psychological experiences
+title: smartphone, social media, and psychological experiences
 
-description:
+description: Modeling and predicting psychological experiences through digital media 
+
 img: assets/img/project3.jpg
 importance: 2
 category: work
