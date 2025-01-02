@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm giving a talk on “Contextualizing Meaningful Social Interactions and Psychological Wellbeing” at SPSP2025 in Denver.
+I'm giving a talk on “Contextualizing Meaningful Social Interactions and Psychological Wellbeing” at [SPSP 2025](https://spsp.org/events/annual-convention) in Denver.
