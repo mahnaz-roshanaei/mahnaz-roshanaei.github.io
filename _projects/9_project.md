@@ -3,7 +3,7 @@ layout: page
 title: human-AI interaction
 description: Navigating empathy through human-AI interaction  
 img: assets/img/project4.jpg
-importance: 4
+importance: 2
 category: work
 ---
 
