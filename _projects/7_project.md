@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 7
+title: social interaction
 description: with background image
-img: assets/img/4.jpg
+img: assets/img/project1.jpg
 importance: 1
 category: work
 related_publications: true
