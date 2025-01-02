@@ -1,7 +1,7 @@
 ---
 layout: page
-title: mobile sensing 
-description: Modeling and predicting psychological experiences through smartphone
+title: human-AI interaction
+description: 
 img: assets/img/project2.jpg
 importance: 2
 category: work
