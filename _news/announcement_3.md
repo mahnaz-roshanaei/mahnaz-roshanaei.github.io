@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-My paper, “Meaningful peer social 
+My paper, [“Meaningful peer social 
 interactions and momentary well-being in context. 
-,” has been published at SPPS.
+,”](https://journals.sagepub.com/doi/10.1177/19485506241248271) has been published at SPPS.
