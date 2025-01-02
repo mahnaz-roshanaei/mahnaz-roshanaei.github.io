@@ -4,7 +4,7 @@ title: smartphone use and effect
 description: 
 img: assets/img/project2.jpg
 importance: 2
-category: work
+category: fun
 giscus_comments: true
 ---
 
