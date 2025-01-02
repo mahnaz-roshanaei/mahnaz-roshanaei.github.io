@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
+title: human-AI interaction
+description: Navigating empathy through human-AI interaction  
+img: assets/img/project4.jpg
 importance: 4
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
