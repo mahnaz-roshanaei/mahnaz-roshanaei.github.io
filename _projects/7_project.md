@@ -7,7 +7,7 @@ description: Examining the effects of social interactions on people’s wellbein
 img: assets/img/project1.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Social interactions are key predictors of well-being. They naturally occur in different contexts, however the benefits of engaging in social interactions in different settings and with different people remain understudied. Here we assess how context moderates the effects of meaningful social interactions on momentary wellbeing. We found that meaningful social interactions generally enhances wellbeing, but benefits vary by context. For instance, interactions with weak ties were associated with less loneliness. These findings suggest that the contexts and activities surrounding meaningful social interactions significantly affect momentary wellbeing. 
