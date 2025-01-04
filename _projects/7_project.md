@@ -24,7 +24,7 @@ Interaction Partners and Empathy in the Selection of Communication Channels Duri
 Mahnaz Roshanaei, Sumer S. Vaid, Jamil Zaki, and Gabriella M. Harari, 
 2024
 
-Social microclimates and well-being.
+Social Microclimates and wellbeing.
 Andrea L Courtney, Dean Baltiansky, Wicia M Fang, Mahnaz Roshanaei, Yunus C Aybas, Natalie A Samuels, Everett Wetchler, Zhengxuan Wu, Matthew O Jackson, Jamil Zaki
 Emotion, 2023
 
