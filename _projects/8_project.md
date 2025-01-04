@@ -36,4 +36,8 @@ Having fun?: Personalized activity-based mood prediction in social media.
 Mahnaz Roshanaei, Richard Han, and Shivakant Mishra,
 Prediction and Inference from Social Networks and Social Media, 2017
 
+Studying the attributes of users in Twitter considering their emotional states.
+Mahnaz Roshanaei, and Shivakant Mishra,
+Social Network Analysis and Mining, 2015
+
 
