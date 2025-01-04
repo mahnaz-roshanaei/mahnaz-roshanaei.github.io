@@ -17,9 +17,7 @@ Following this project, we examined the relationship between media channels, rel
 ## References
 
 Meaningful Peer Social Interactions and Momentary Well-Being in Context.
-
 Mahnaz Roshanaei, Sumer S. Vaid, Andrea L. Courtney, Serena J. Soh, Jamil Zaki, and Gabriella M. Harari,
-
 Social Psychological and Personality Science, 2024
 
 Interaction Partners and Empathy in the Selection of Communication Channels During Meaningful Social Interactions.
