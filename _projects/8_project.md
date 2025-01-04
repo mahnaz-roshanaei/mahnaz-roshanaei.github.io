@@ -25,7 +25,7 @@ Sumer S. Vaid, Lara Kroencke, Mahnaz Roshanei, Sanaz Talaifar, Jeffrey T. Hancoc
 Scientific reports, 2024
 
 The Effects of Smartphone Use and Well-Being in Context
-Katherine Roehrick, Mahnaz Roshanaei, Serena S. Soh, Sumer S. Vaid, Joe Bayer, and Gabriella M. Harari 
+Katherine Roehrick, Mahnaz Roshanaei, Serena J. Soh, Sumer S. Vaid, Joe Bayer, and Gabriella M. Harari 
 2024
 
 Emotionsensing: Predicting mobile user emotion
