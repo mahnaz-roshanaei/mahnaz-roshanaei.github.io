@@ -17,7 +17,7 @@ Talk, Listen, Connect: Navigating Empathy in Human-AI Interactions.
 Mahnaz Roshanaei, Rezvaneh Rezapour, Magy Seif El-Nasr,
 2024
 
-Paths to empathy: Heterogeneous effects of reading personal stories online.
+Paths to empathy: Heterogeneous Effects of Reading Personal Stories Online.
 Mahnaz Roshanaei, Christopher Tran, Sylvia Morelli, Caragea Cornelia, Elena Zheleva,
 In 2019 IEEE International Conference on Data Science and Advanced Analytics (DSAA), 2019
 
