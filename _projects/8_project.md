@@ -21,19 +21,27 @@ Analysis of twitter's user engagement and content, revealed that positive users 
 ## Reference 
 
 Variation in social media sensitivity across people and contexts
+
 Sumer S. Vaid, Lara Kroencke, Mahnaz Roshanei, Sanaz Talaifar, Jeffrey T. Hancock, Mitja D. Back, Samuel D. Gosling, Nilam Ram, Gabriella M. Harari,
+
 Scientific reports, 2024
 
 The Effects of Smartphone Use and Well-Being in Context
+
 Katherine Roehrick, Mahnaz Roshanaei, Serena J. Soh, Sumer S. Vaid, Joe Bayer, and Gabriella M. Harari 
+
 2024
 
 Emotionsensing: Predicting mobile user emotion
+
 Mahnaz Roshanaei, Richard Han, and Shivakant Mishra
+
 In Proceedings of the 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2017, 2017
 
 Having fun?: Personalized activity-based mood prediction in social media
+
 Mahnaz Roshanaei, Richard Han, and Shivakant Mishra
+
 Prediction and Inference from Social Networks and Social Media, 2017
 
 
