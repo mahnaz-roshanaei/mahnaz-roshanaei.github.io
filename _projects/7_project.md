@@ -21,14 +21,7 @@ Social Psychological and Personality Science, 2024
 Interaction Partners and Empathy in the Selection of Communication Channels During Meaningful Social Interactions
 Mahnaz Roshanaei, Sumer S Vaid, Jamil Zaki, and Gabriella M. Harari, 2024
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/MSIWB.jpg
-    ---
 
 
 
