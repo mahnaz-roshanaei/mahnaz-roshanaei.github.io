@@ -25,6 +25,7 @@ html
     {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
+## References
 
 Meaningful Peer Social Interactions and Momentary Well-Being in Context
 Mahnaz Roshanaei, Sumer S Vaid, Andrea L Courtney, Serena J. Soh, Jamil Zaki, and Gabriella M. Harari,
