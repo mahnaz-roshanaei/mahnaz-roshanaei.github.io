@@ -4,7 +4,7 @@ title: digital media use and effect
 
 description: Modeling and predicting psychological experiences through smartphone and social meida  
 
-img: assets/img/project3.png
+img: assets/img/project3.jpg
 importance: 3
 category: work
 #giscus_comments: true
