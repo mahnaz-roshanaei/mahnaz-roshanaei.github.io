@@ -10,9 +10,16 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Social interactions are key predictors of well-being. They naturally occur in different contexts, however the benefits of engaging in social interactions in different settings and with different people remain understudied. Here we assess how context moderates the effects of meaningful social interactions on momentary wellbeing. We found that meaningful social interactions generally enhances wellbeing, but benefits vary by context. For instance, interactions with weak ties were associated with less loneliness. These findings suggest that the contexts and activities surrounding meaningful social interactions significantly affect momentary wellbeing. 
+
+Following this project, we examined the relationship between media channels, relational tie strength, and the role of emotional support. Despite the rapid growth of media channels in the past two decades, this relationship remains largely unexplored. Our findings indicated greater benefits for socializing through richer media (e.g. face-to-face interactions and video calling), particularly when engaging with weak ties compared to strong ties, and when higher levels of perceived empathy are present. Conversely, empathy may be seen as a process of psychological involvement, where individuals engage with and respond to others' emotional states. Therefore, Rich media channels, which provide immediate feedback and a wealth of cues, are more effective in conveying emotional states. 
+
+
+
+
+
+
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
