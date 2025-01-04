@@ -15,27 +15,6 @@ Social interactions are key predictors of well-being. They naturally occur in di
 Following this project, we examined the relationship between media channels, relational tie strength, and the role of emotional support. Despite the rapid growth of media channels in the past two decades, this relationship remains largely unexplored. Our findings indicated greater benefits for socializing through richer media (e.g. face-to-face interactions and video calling), particularly when engaging with weak ties compared to strong ties, and when higher levels of perceived empathy are present. Conversely, empathy may be seen as a process of psychological involvement, where individuals engage with and respond to others' emotional states. Therefore, Rich media channels, which provide immediate feedback and a wealth of cues, are more effective in conveying emotional states. 
 
 
-@article{roshanaei2024channel,
-  title={Interaction Partners and Empathy in the Selection of
-Communication Channels During Meaningful Social Interactions},
-  author={Roshanaei, Mahnaz and Vaid, Sumer S and Zaki, Jamil and Harari, Gabriella M},
-  year={2024},
-  html={https://osf.io/preprints/psyarxiv/ty68s?view_only= }
-}
-
-@article{roshanaei2024meaningful,
-  title={Meaningful Peer Social Interactions and Momentary Well-Being in Context},
-  author={Roshanaei, Mahnaz and Vaid, Sumer S and Courtney, Andrea L and Soh, Serena J and Zaki, Jamil and Harari, Gabriella M},
-  journal={Social Psychological and Personality Science},
-  pages={19485506241248271},
-  year={2024},
-  publisher={SAGE Publications Sage CA: Los Angeles, CA},
-  html={https://journals.sagepub.com/doi/10.1177/19485506241248271}
-}
-
-
-
-
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
@@ -103,4 +82,9 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+Meaningful Peer Social Interactions and Momentary Well-Being in Context
+Mahnaz Roshanaei, Sumer S Vaid, Andrea L Courtney, Serena J. Soh, Jamil Zaki, and Gabriella M. Harari,
+Social Psychological and Personality Science, 2024
+
+Interaction Partners and Empathy in the Selection of Communication Channels During Meaningful Social Interactions
+Mahnaz Roshanaei, Sumer S Vaid, Jamil Zaki, and Gabriella M. Harari, 2024
