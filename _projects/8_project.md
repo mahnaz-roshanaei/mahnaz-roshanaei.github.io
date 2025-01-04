@@ -7,77 +7,19 @@ description: Modeling and predicting psychological experiences through smartphon
 img: assets/img/project3.jpg
 importance: 3
 category: work
-giscus_comments: true
+#giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Digital media technologies have transferred the way we communicate and share thoughts and feelings without being limited by time or location, allowing for continuous assessment of people’s daily behavior and psychological experience. One of the most puzzling questions about digital media technologies has been to fully understand the individual differences in how people experience and are impacted by these technologies. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Here, I examined the impact of digital media technologies on wellbeing, and predict psychological outcomes by capturing daily behavior. In “EmotionSensing”, analysis of three-months data from thirty students revealed socializing and dining are associated with happiness, while studying related stress. A Machine Learning classifier achieved 75% accuracy in predicting 13 emotions, with significant improvements from gender and second emotions. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Analysis of twitter's user engagement and content, revealed that positive users tweet more, followed by negative users, and use Twitter for information sharing, while negative users engage more for interpersonal purposes. A personalized mood prediction achieved 80% accuracy, emphasizing gender, activities, and temporal online activity patterns. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+In another study, examining the impacts of social media use on momentary well-being, we found heterogeneity in social media effects. For instance, individuals with psychological vulnerabilities (e.g., depression, loneliness) were more sensitive to negative effects of social media. Those negative effects are stronger in certain physical contexts (e.g. social places vs. at home) and while around certain types of people (e.g. family members vs. alone). 
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+In most recent study, we observed that higher frequency of use correlated with increased momentary energy and contentment, while duration showed no significant effect. However, participants reported elevated loneliness and sadness with more frequent and longer smartphone use in the presence of strong ties and in public or work settings, compared to alone or at home. The results support the importance of considering contextual factors while we study the effects of smartphone use on well-being.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Reference 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
